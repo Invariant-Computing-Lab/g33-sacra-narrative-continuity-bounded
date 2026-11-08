@@ -1,6 +1,8 @@
 # G33 — sacra-narrative-continuity
 
-**Status: PRIVATE CANDIDATE / NEWLY IMPLEMENTED BOUNDED UTILITY.** This is NOT the original unrecovered upstream G33 repository, and is NOT a scientific validation or a public release authorization.
+**Programme context.** Invariant Computing Lab / SACRA: bounded synthetic tests of authority, policy, delegation and provenance. This visible implementation is not recovered original upstream source, a production authority system, or a scientific validation claim. Public visibility does not supply redistribution rights.
+
+**Status: PUBLICLY VISIBLE BOUNDED RESEARCH CANDIDATE / NEWLY IMPLEMENTED UTILITY.** This is NOT the original unrecovered upstream G33 repository, and is NOT a scientific validation or a public release authorization.
 
 ## Functionality
 
